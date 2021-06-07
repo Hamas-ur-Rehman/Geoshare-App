@@ -12,12 +12,12 @@ This app can help you locate a person with just a simple SMS. The SMS will conta
 
 <img src="images/phone.png" height = 300> <br>
 
-### Download
+## Download
 
 |<img src="images/android.jpg" height = 30> Android apk|
 |:--------|
 |[Geoshare-apk ver 1.0.0](https://github.com/Hamas-ur-Rehman/Geoshare-App/raw/master/Downloads/app-release.apk)|
 
-### Youtube Tutorial
+## Youtube Tutorial
 
 <a href= "https://youtu.be/P5RbStBbyKk"><img src="images/screen 2.png"><a>
