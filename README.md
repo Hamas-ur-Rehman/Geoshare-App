@@ -1,5 +1,5 @@
 # Geoshare App
-
+<img src="images/logo.png" >
 ###### version 1.0.0
 Best way to locate someone
 
