@@ -14,7 +14,7 @@ This app can help you locate a person with just a simple SMS. The SMS will conta
 
 ### Download
 
-|Android apk|
+|<img src="images/android.jpg" height = 30> Android apk|
 |:--------|
 |[Geoshare-apk ver 1.0.0](https://github.com/Hamas-ur-Rehman/Geoshare-App/raw/master/Downloads/app-release.apk)|
 
