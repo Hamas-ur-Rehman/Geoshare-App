@@ -1,4 +1,5 @@
 # Geoshare App Ver 1.0.0
+![Version](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&label=APK%20version&message=1.0.0)
 
 <img src="images/logo.png" height = 150>
 
