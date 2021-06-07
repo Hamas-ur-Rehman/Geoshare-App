@@ -18,9 +18,9 @@ This app can help you locate a person with just a simple SMS. The SMS will conta
 
 ### Download
 
-Android |
---------
-download|
+|Android|
+|:--------|
+|download |
 
 ### Youtube Tutorial
 
