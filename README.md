@@ -1,5 +1,5 @@
-# Geoshare App Ver 1.0.0
-![Version](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&label=APK%20version&message=1.0.0)
+# Geoshare App Ver 2.0.0
+![Version](https://img.shields.io/static/v1?style=for-the-badge&logo=Git&label=APK%20version&message=2.0.0)
 
 <img src="images/logo.png" height = 150>
 
@@ -17,7 +17,7 @@ This app can help you locate a person with just a simple SMS. The SMS will conta
 
 |<img src="images/android.jpg" height = 30> Android apk|
 |:--------|
-|[Geoshare-apk ver 1.0.0](https://github.com/Hamas-ur-Rehman/Geoshare-App/raw/master/Downloads/app-release.apk)|
+|[Geoshare-apk ver 2.0.0](https://github.com/Hamas-ur-Rehman/Geoshare-App/raw/master/Downloads/app-release2.apk)|
 
 ## Youtube Tutorial
 
